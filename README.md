@@ -51,4 +51,4 @@
 
 1. Что такое сети [Электронный ресурс] URL: [https://nauchniestati.ru/spravka/seti-ponyatie-opredelenie-klassifikacziya/] (дата обращения: 12.12.2023)
 2. Виды сетей [Электронный ресурс] URL: [https://nauchniestati.ru/spravka/lokalnye-i-globalnye-kompyuternye-seti/] (дата обращения: 12.12.2023)
-3. Что такое интрнет [Электронный ресурс] URL: [https://digitalocean.ru/n/chto-takoe-internet] (дата обращения: 12.12.2023)
+3. Что такое интернет [Электронный ресурс] URL: [https://digitalocean.ru/n/chto-takoe-internet] (дата обращения: 12.12.2023)
